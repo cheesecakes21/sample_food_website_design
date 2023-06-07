@@ -235,7 +235,11 @@
     padding-top: 5px;
     padding-left: 5px;
   }
-  
+
+.liw {
+   font-size: 18px; 
+  }  
+
   /* Icons */
   .icons {
     margin-top: 20px;
